@@ -1,0 +1,6 @@
+CREATE TABLE suppliers (
+id INT PRIMARY KEY NOT NULL AUTO_INCREMENT,
+nama VARCHAR(50),
+alamat VARCHAR(150),
+kontak VARCHAR(50)
+);

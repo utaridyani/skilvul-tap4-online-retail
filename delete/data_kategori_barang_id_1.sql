@@ -1,0 +1,1 @@
+DELETE FROM kategori_barang WHERE id = "1";

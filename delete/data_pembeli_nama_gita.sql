@@ -1,0 +1,1 @@
+DELETE FROM pembeli WHERE nama = "gita";

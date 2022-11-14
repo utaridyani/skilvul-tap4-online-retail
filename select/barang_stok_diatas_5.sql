@@ -1,0 +1,1 @@
+SELECT * FROM barang WHERE stok>5;
