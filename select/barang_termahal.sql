@@ -1,0 +1,1 @@
+SELECT * FROM barang ORDER BY harga DESC LIMIT 1;
